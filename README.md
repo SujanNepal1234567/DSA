@@ -1,2 +1,2 @@
 # DSA
-Collection of DSA snippets in Python
+Collection of DSA scripts in Python
